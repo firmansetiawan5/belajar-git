@@ -1,2 +1,3 @@
-Pertama Kali 
+hello 
+Saya Pertama Kali 
 Belajar Git 
