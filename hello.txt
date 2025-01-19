@@ -1,4 +1,3 @@
 hello 
 Saya Pertama Kali 
 Belajar Git 
-Belajar Git 2
